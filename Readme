@@ -1,0 +1,1 @@
+This project builds a machine learning classification system to predict disease risk from patient clinical data. It includes data preprocessing, feature selection, and model training using Logistic Regression, KNN, and SVM. The models are evaluated using accuracy, precision, recall, and F1-score, demonstrating a complete ML pipeline for healthcare applications.
